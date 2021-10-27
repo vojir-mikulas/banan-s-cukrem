@@ -9,8 +9,8 @@ export default function Home() {
         Šťastný komplex (často také pod názvem Šťastnýho syndrom“ nebo „Komplex
         zasraného předělávače“) je lidové označení pro specifický psychický
         komplex vycházející z předělávání vlastních projektů, v širším významu
-        pak vycházející z jakékoli reworkování věcí. Pojmenován byl podle Jakuba
-        Šťastného, který by měl držet hubu.{" "}
+        pak vycházející z jakéhokoliv reworkování věcí. Pojmenován byl podle
+        Jakuba Šťastného, který by měl držet hubu.{" "}
       </p>
     </div>
   );
